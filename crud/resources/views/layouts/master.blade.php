@@ -145,7 +145,7 @@
 <!-- PARTE INFERIOR  -->
 @section('pie')
 <footer class="page-footer font-small p-4 bg-light">
-    <p>aplicacion imitada por {{$autor}} como ejemeplo de clase.
+    <p>aplicacion imitada por {{$autor}} como ejemeplo de LARAVEL.
         Desarrrollada haciendo uso de <b>LARAVEL</b> y <b>BOOSTRAP</b>.
     </p>
 </footer>
